@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8"></meta>
+    <meta content="IE=edge" httpequiv="X-UA-Compatible"></meta>
+    <meta content="width=device-width, initial-scale=1" name="viewport"></meta>
+    <title>${1:新建文件}</title>
+    <meta content="${2:新建文件}" name="description"></meta>
+    <meta content="${3:新建文件}" name="Keywords"></meta>
+</head>
+<body>
+  	${0:# code...}
+</body>
+</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>html::5</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

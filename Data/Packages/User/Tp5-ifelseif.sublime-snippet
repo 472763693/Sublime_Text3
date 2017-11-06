@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[{if ${1:( \$name == 1) OR ( \$name > 100)} } 
+${2:value1}
+{elseif ${3:\$name == 2}/}
+${4:value2}
+{else /} 
+${5:value3}
+{/if}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tp5::ifelseif</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

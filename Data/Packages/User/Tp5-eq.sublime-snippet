@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[{eq name="${1:name}" value="${2:value}"}${3:value}{/eq}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tp5::eq</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

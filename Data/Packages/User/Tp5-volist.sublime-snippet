@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[{volist name="${1:list}" id="${2:vo}"}
+    {volist name="${3:vo['sub']}" id="${4:sub}"}  
+    	${5:\{\$sub.name\}}
+    {/volist}
+{/volist}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tp5::volist</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

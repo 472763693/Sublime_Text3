@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[{notempty name="${1:name}"}
+${2:name为空值}
+{/notempty}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tp5::notempty</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[{if ${1:\$user->name == 'ThinkPHP'}}
+${2:ThinkPHP}
+{else /} 
+${3:Other Framework}
+{/if}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tp5::ifelse</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

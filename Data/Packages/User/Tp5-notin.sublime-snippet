@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[{notin name="${1:id}" value="${2:1,2,3}"}
+${3:id在范围内}
+{/notin}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tp5::notin</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

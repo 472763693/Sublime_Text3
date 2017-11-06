@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[{eq name="${1:name}" value="${2:value}"}
+${3:相等}
+{else/}
+${4:不相等}
+{/eq}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tp5::eqelse</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

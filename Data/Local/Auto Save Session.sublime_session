@@ -1,0 +1,527 @@
+{
+	"folder_history":
+	[
+		"/D/Websver",
+		"/F/wwwroot"
+	],
+	"last_version": 3143,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ins",
+						"insertObj"
+					],
+					[
+						"tr",
+						"try\tWrap in try { … } catch (…) { … }"
+					],
+					[
+						"clas",
+						"className"
+					],
+					[
+						"str_r",
+						"str_replace"
+					],
+					[
+						"va",
+						"var_dump"
+					],
+					[
+						"obj",
+						"obj_a"
+					],
+					[
+						"php",
+						"php\tPhp"
+					],
+					[
+						"UNSE",
+						"unset"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/Websver/Qlqwobj/application/route.php",
+					"settings":
+					{
+						"buffer_size": 2610,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Websver/Qlqwobj/application/wxRoute.php",
+					"settings":
+					{
+						"buffer_size": 1601,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Websver/Qlqwobj/application/index/view/apphtml_index.html",
+					"settings":
+					{
+						"buffer_size": 32337,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 170.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"INSTAL",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Bookmarks: Select Next"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 220.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/Websver",
+				"/D/Websver/Lvyecms",
+				"/D/Websver/Qlqwobj",
+				"/D/Websver/Qlqwobj/application",
+				"/D/Websver/Qlqwobj/application/index",
+				"/D/Websver/Qlqwobj/application/index/view"
+			],
+			"file_history":
+			[
+				"/D/Websver/Qlqwobj/application/admin/controller/Login.php",
+				"/D/Websver/Qlqwobj/application/index/controller/Receivables.php",
+				"/D/Websver/Qlqwobj/application/index/view/receivables_getUserMobile.html",
+				"/D/Websver/Qlqwobj/application/api/controller/v1/Wechat.php",
+				"/D/Websver/Qlqwobj/extend/weixin/WxPayPubConfig.php",
+				"/D/Websver/System/application/admin/controller/Member.php",
+				"/D/Websver/Qlqwobj/application/index/controller/Login.php",
+				"/D/Websver/System/application/admin/view/Member_groupAuth.html",
+				"/D/Websver/System/application/index/controller/Index.php",
+				"/D/Websver/System/thinkphp/library/think/db/Query.php",
+				"/D/Websver/System/application/admin/model/AuthGroup.php",
+				"/D/Websver/System/application/admin/model/AuthGroupAccess.php",
+				"/D/Websver/System/application/admin/model/Member.php",
+				"/D/Websver/System/application/config.php",
+				"/D/Websver/System/application/index/view/index_index.html",
+				"/D/Websver/testqlqw/application/api/view/transaction/memberCash.html",
+				"/D/Websver/System/public/index/js/jianpan_index.js",
+				"/D/Websver/testqlqw/public/static/api/js/rem.js",
+				"/D/Websver/testqlqw/public/static/api/js/jianpan_index.js",
+				"/D/Websver/Qlqwobj/application/admin/controller/Returnfund.php",
+				"/D/Websver/testqlqw/sftp-config.json",
+				"/D/Websver/testqlqw/composer.json",
+				"/D/Websver/Myauth/Public/Css/console1412.css",
+				"/D/Websver/System/public/admin/css/expand.css",
+				"/D/Websver/Myauth/Public/Css/base.css",
+				"/D/Websver/Myauth/Application/Admin/View/Default/Css/style.css",
+				"/D/Websver/Myobjet/Application/Admin/Controller/CommonController.class.php",
+				"/D/Websver/Myobjet/Application/Admin/Controller/MemberController.class.php",
+				"/D/Websver/Qlqwobj/application/admin/controller/Member.php",
+				"/D/Websver/Tmp/application/index/controller/Index.php",
+				"/D/Websver/Tmp/application/database.php",
+				"/D/Websver/Tmp/application/config.php",
+				"/D/Users/Administrator/Desktop/dps.sql",
+				"/D/Websver/Qlqwobj/application/api/controller/v1/Auction.php",
+				"/D/Websver/Fanli/sftp-config.json",
+				"/D/Websver/Fanli/application/index/controller/Index.php",
+				"/D/Websver/System/application/admin/controller/System.php",
+				"/D/Websver/Qlqwobj/application/index/view/login_appRegister.html",
+				"/D/Websver/Qlqwobj/application/wxRoute.php",
+				"/D/Websver/Qlqwobj/application/route.php",
+				"/D/Websver/System/application/common/controller/Base.php",
+				"/D/Websver/Test/application/index/controller/Index.php",
+				"/D/Websver/Test/application/common.php",
+				"/D/Websver/Myauth/Application/Admin/Controller/NotifyController.class.php",
+				"/D/Websver/Test/application/index/model/Member.php",
+				"/D/Websver/Myauth/Application/Common/Common/function.php",
+				"/D/Websver/Qlqwobj/application/index/controller/Index.php",
+				"/D/Websver/Qlqwobj/application/extra/database.php",
+				"/D/Websver/Qlqwobj/sftp-config.json",
+				"/D/Websver/Test/application/database.php",
+				"/D/Websver/System/application/admin/view/member_addMember.html",
+				"/D/Websver/System/application/admin/view/member_editMember.html",
+				"/D/Websver/System/application/admin/view/member_memberList.html",
+				"/D/Websver/Qlqwobj/application/common/model/Member.php",
+				"/D/Websver/Fanli/application/common/model/Member.php",
+				"/D/Websver/System/thinkphp/library/think/Model.php",
+				"/D/Websver/Thinkphp5/index.php",
+				"/D/Websver/Thinkphp5/common.php",
+				"/D/Websver/Thinkphp5/base.php",
+				"/D/Websver/Thinkphp5/home/index.php",
+				"/D/Websver/Thinkphp5/models/common.php",
+				"/D/Websver/Thinkphp5/models/base.php",
+				"/D/Websver/Thinkphp5/sftp-config.json",
+				"/D/Websver/Thinkphp5/test1.php",
+				"/D/Websver/System/build.php",
+				"/D/Websver/Thinkphp5/test2.php",
+				"/D/Websver/System/public/admin/css/main_right.css",
+				"/D/Websver/System/public/base/js/common.js",
+				"/D/Users/Administrator/Desktop/common.inc.php",
+				"/D/Users/Administrator/Desktop/database.php",
+				"/D/Sublime_Text3/Data/Packages/User/namespace.sublime-snippet",
+				"/D/Websver/404.html",
+				"/D/Websver/Qlqwobj/application/index/view/index_givesorce.html",
+				"/D/Websver/Qlqwobj/application/extra/weixin.php",
+				"/D/Websver/Qlqwobj/application/common.php",
+				"/D/Websver/Qlqwobj/application/api/controller/v1/User.php",
+				"/D/Websver/Qlqwobj/application/index/view/index_index.html",
+				"/D/Sublime_Text3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/Websver/Qlqwobj/application/index/controller/Apphtml.php",
+				"/D/Websver/Qlqwobj/application/api/controller/v1/Push.php",
+				"/D/Websver/Qlqwobj/application/common/model/PushResults.php",
+				"/D/Sublime_Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/F/wwwroot/index.php",
+				"/D/Sublime_Text3/Data/Packages/User/Php-utf8.sublime-snippet",
+				"/F/Sublime-Text3/Data/Packages/PHP/Php_headerUrl.sublime-snippet",
+				"/F/Sublime-Text3/Data/Packages/PHP/php.sublime-snippet",
+				"/F/Sublime_Text3/Data/Packages/User/Php.sublime-snippet",
+				"/F/Sublime-Text3/Data/Packages/PHP/Php(-).sublime-snippet",
+				"/F/Sublime-Text3/Data/Packages/PHP/php-else.sublime-snippet",
+				"/F/Sublime-Text3/Data/Packages/HTML/Tp_ifelse.sublime-snippet",
+				"/F/Sublime_Text3/Data/Packages/User/Tp5-if.sublime-snippet",
+				"/F/Sublime_Text3/Data/Packages/User/Tp5-eq.sublime-snippet",
+				"/F/Sublime_Text3/Data/Packages/User/Tp5-include.sublime-snippet",
+				"/F/Sublime-Text3/Data/Packages/HTML/Tp_include.sublime-snippet",
+				"/F/Sublime_Text3/Data/Packages/User/Tp5-index.sublime-snippet",
+				"/F/Sublime_Text3/Data/Packages/User/Html5.sublime-snippet",
+				"/F/Sublime_Text3/Data/Packages/User/ThinkPHP5/index.sublime-snippet",
+				"/F/wwwroot/Test/index.php",
+				"/F/Sublime_Text3/Data/Packages/User/ThinkPHP5/startIndex.sublime-snippet",
+				"/F/Sublime_Text3/Data/Packages/User/html5.sublime-snippet",
+				"/F/Sublime_Text3/Data/Packages/User/hellow.sublime-snippet",
+				"/F/Sublime-Text3/Data/Packages/HTML/diy_html5.sublime-snippet"
+			],
+			"find":
+			{
+				"height": 43.0
+			},
+			"find_in_files":
+			{
+				"height": 110.0,
+				"where_history":
+				[
+					"D:\\Websver\\testqlqw",
+					"D:\\Websver\\testqlqw\\application\\api\\api\\v1",
+					"D:\\Websver\\testqlqw\\application\\api",
+					"D:\\Websver\\System\\thinkphp\\library",
+					"D:\\Websver\\Myauth\\Application\\Admin"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"注册",
+					"with",
+					"alert",
+					"$this->param",
+					"require_cache",
+					"libfile",
+					"lib",
+					"this->",
+					"$writeObj->name . '-",
+					"$writeObj->age . ",
+					"name",
+					"insertObj",
+					"添加",
+					"insert",
+					", $url",
+					"400, $tip, '', $url",
+					"save",
+					"Base",
+					"self::",
+					"$this->write",
+					"self",
+					"$value['p_name']",
+					">'",
+					">",
+					"userinfo",
+					"defined",
+					"empty",
+					"between",
+					"铭扬致远系统管理中心"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\Websver"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/Websver/Qlqwobj/application/route.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2610,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										855,
+										855
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": true,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 264.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/Websver/Qlqwobj/application/wxRoute.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1601,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										759,
+										712
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": true,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/Websver/Qlqwobj/application/index/view/apphtml_index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 32337,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										668,
+										668
+									]
+								],
+								"settings":
+								{
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": true,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 594.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 48.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 144.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,613,75,75,731",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"test2",
+						"Thinkphp5\\test2.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 290.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"enable_tab_scrolling": false,
+	"font_face": "consolas",
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"CSScomb",
+		"Vintage"
+	],
+	"update_check": false
+}

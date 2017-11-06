@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[{defined name="${1:NAME}"}
+${2:NAME常量已经定义}
+{/defined}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>tp5::defined</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
