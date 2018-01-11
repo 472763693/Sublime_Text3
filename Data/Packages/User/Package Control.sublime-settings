@@ -19,6 +19,8 @@
 		"HTMLBeautify",
 		"JsFormat",
 		"Package Control",
-		"SFTP"
+		"SFTP",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
 	]
 }
